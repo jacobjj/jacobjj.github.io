@@ -1,5 +1,4 @@
 .devcontainer/**
-_site
 .bundle
 .sass-cache
 .jekyll-cache
