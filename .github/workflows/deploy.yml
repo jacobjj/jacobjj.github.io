@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - jacob-mods
+      - merge_w_main
   pull_request:
     branches:
       - jacob-mods
+      - merge_w_main
   workflow_dispatch:
 
 permissions:
