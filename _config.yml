@@ -52,8 +52,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: jacobjj # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: jacobjohnson94 # your LinkedIn user name
+scholar_userid: WTj1Vn4AAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -153,7 +153,7 @@ github: [metadata]
 scholar:
 
   last_name: Johnson
-  first_name: [Jacob J.]
+  first_name: ["Jacob J."]
 
   style: apa
   locale: en

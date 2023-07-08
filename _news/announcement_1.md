@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-1-1 15:59:00-0400
+date: 2022-1-28 15:59:00-0400
 inline: true
 ---
 
-Our Paper [Composing Task-Agnostic Policies with Deep Reinforcement Learning](https://arxiv.org/abs/1905.10681) got accepted to ICLR.
+Our paper [Motion Planning Transformers: One Model to Plan them All](https://openreview.net/pdf?id=6Jf6HX4MoLH) is available online.

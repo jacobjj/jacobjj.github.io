@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-02-15 07:59:00-0400
+date: 2023-06-1 07:59:00-0400
 inline: true
 ---
 
-Our paper [Dynamically Constrained Motion Planning Networks for Non-Holonomic Robots](https://arxiv.org/abs/2008.05112) got accepted to IROS.
+Our paper [Learning Sampling Dictionaries for Efficient and Generalizable Robot Motion Planning with Transformers](https://arxiv.org/abs/2306.00851) is available online. Visit [website](https://sites.google.com/eng.ucsd.edu/vq-mpt/home) for more details.
