@@ -7,6 +7,7 @@ description: jjj025 at ucsd dot edu
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p>ARClab UCSD</p>
     <p>Atkinson Hall</p>
